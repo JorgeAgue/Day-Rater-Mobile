@@ -1,8 +1,8 @@
 # Day Rater Mobile
 A small app in React Native to assist with daily journaling
 
-![Photo Mar 29 2024, 8 34 01 PM](https://github.com/JorgeAgue/Day-Rater/assets/98124296/ba90b405-c2dc-40ac-ac9b-2c16a3c9df9f)
-![Photo Mar 29 2024, 8 34 22 PM](https://github.com/JorgeAgue/Day-Rater/assets/98124296/7bdcecdb-b281-4671-a4db-1ba0e087ab42)
+![IMG_3814](https://github.com/JorgeAgue/Day-Rater-Mobile/assets/98124296/42f57349-abff-4296-b167-8793cb4822e0)
+![IMG_3815](https://github.com/JorgeAgue/Day-Rater-Mobile/assets/98124296/13ca4c1c-52b0-4fd6-8c9f-6beb63a499a8)
 # Usage Instructions
 1. In a new terminal, type the command  "cd Day_Rater_Mobile" to go to the project directory
 
@@ -17,15 +17,17 @@ Storage: Saves the users journal between sessions using Async Storage.
 
 Deletion: Allows the user to delete all the entries they have made to their journal.
 
+Dark mode: Allows the user to change the interface between light and dark modes.
+
 # To-do
 ✅ Basic functionality
 
-✅Dark mode
+✅ Dark mode
 
-☐ Have dark mode setting persist between sessions
+✅ Have dark mode setting persist between sessions
 
 ☐ Add an icon
 
-☐ Add settings screen
+✅ Add settings screen
 
 ☐ Add startup screen
